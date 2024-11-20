@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Rogalik\Rogalik\bin\Debug\net8.0\Rogalik.exe
+C:\Users\User\Desktop\Rogalik\Rogalik\bin\Debug\net8.0\Rogalik.deps.json
+C:\Users\User\Desktop\Rogalik\Rogalik\bin\Debug\net8.0\Rogalik.runtimeconfig.json
+C:\Users\User\Desktop\Rogalik\Rogalik\bin\Debug\net8.0\Rogalik.dll
+C:\Users\User\Desktop\Rogalik\Rogalik\bin\Debug\net8.0\Rogalik.pdb
+C:\Users\User\Desktop\Rogalik\Rogalik\obj\Debug\net8.0\Rogalik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Rogalik\Rogalik\obj\Debug\net8.0\Rogalik.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Rogalik\Rogalik\obj\Debug\net8.0\Rogalik.AssemblyInfo.cs
+C:\Users\User\Desktop\Rogalik\Rogalik\obj\Debug\net8.0\Rogalik.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Rogalik\Rogalik\obj\Debug\net8.0\Rogalik.dll
+C:\Users\User\Desktop\Rogalik\Rogalik\obj\Debug\net8.0\refint\Rogalik.dll
+C:\Users\User\Desktop\Rogalik\Rogalik\obj\Debug\net8.0\Rogalik.pdb
+C:\Users\User\Desktop\Rogalik\Rogalik\obj\Debug\net8.0\Rogalik.genruntimeconfig.cache
+C:\Users\User\Desktop\Rogalik\Rogalik\obj\Debug\net8.0\ref\Rogalik.dll
